@@ -1,6 +1,6 @@
 /*******************************************************************************************
  * Author : Anshuman Verma 
- * Email  : anshuver@cisco.com
+ * Email  : anshuman@vt.edu
  * Date   : June 23rd, 2016 2:23PM EST 
  * Description : Simple Matrix Multiply kernel for checking the verilog dumps for BSPs
  ******************************************************************************************/

@@ -1,5 +1,5 @@
 ############################################################################################################
-# Author      : Anshuman Verma (anshuver@cisco.com) 
+# Author      : Anshuman Verma (anshuman@vt.edu) 
 # Date 	      : June 2nd, 2016 
 # Description : Took the makefile created by Jehandad (probably Altera Makefile) and updated for targets for 
 #				emulation, compile, and creating database in scratch directory
